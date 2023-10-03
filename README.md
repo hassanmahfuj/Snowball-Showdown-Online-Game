@@ -2,7 +2,7 @@
 This is a thrilling two-player web game where you take on the role of either the red or blue player. Move your character vertically and throw snowballs at your opponent to score points. The first player to reach 15 points wins the game. With strategic movement and precise aim, it's a test of reflexes and accuracy in a fun snowball battle.
 
 # Play now
-[https://github.com/hassanmahfuj/Snowball-Showdown-Online-Game](https://github.com/hassanmahfuj/Snowball-Showdown-Online-Game)
+[https://hassanmahfuj.github.io/Snowball-Showdown-Online-Game](https://hassanmahfuj.github.io/Snowball-Showdown-Online-Game)
 
 # Gameplay:
 ### Controls:
